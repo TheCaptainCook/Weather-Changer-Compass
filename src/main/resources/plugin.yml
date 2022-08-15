@@ -1,0 +1,9 @@
+name: ChangerWand
+version: '${project.version}'
+main: me.masem.changerwand.ChangerWand
+api-version: 1.19
+
+commands:
+  wand:
+    usage: type /<command> to get weather wand
+    description: Allows to change the weather of server.
