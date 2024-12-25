@@ -39,7 +39,6 @@
                         </goals>
                         <configuration>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
-                            <outputDirectory>E:\freshworks\AA SERVER MAKER\plugins</outputDirectory>
                         </configuration>
                     </execution>
                 </executions>
